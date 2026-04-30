@@ -61,3 +61,6 @@ asdf_lazy_load() {
 }
 
 alias asdf=asdf_lazy_load
+
+# Added by Antigravity
+export PATH="/Users/maverick/.antigravity/antigravity/bin:$PATH"
